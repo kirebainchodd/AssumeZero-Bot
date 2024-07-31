@@ -13,8 +13,8 @@ exports.owner = {
 // Bot information
 exports.bot = {
     "names": {
-        "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
-        "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
+        "short": "R̷A̷N̷I̷ 𝗔𝗜", // Will be used as 'nickname' in chat (remove if same as account name)
+        "long": "𝗥𝗔𝗡𝗜 Bot" // Name displayed in profile on bot's Facebook account
     },
     "id": "100041587845629" // Bot's ID (for security purposes in commands)
 };
